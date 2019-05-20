@@ -8,14 +8,12 @@ https://openuserjs.org/scripts/aliaksei_tatarynchykepam.com/Security_Impact_Scor
 
 
 Related reports:
-
-Scaling AppSec team:
+- Scaling AppSec team:
 1) Security Champions Playbook  - Alexander Antukh - ZeroNights 2017
 https://www.youtube.com/watch?v=UX08VUWr8ps
 2)	SDL at Scale: Growing Security Champions - Ryan O'Boyle - AppSecUSA 2018
 https://www.youtube.com/watch?v=LsEU776Xu90
-
-Simplification of threat modeling process, involve developers:
+- Simplification of threat modeling process, involve developers:
 1)	Value Driven Threat Modeling - Avi Douglen - AppSecUSA 2018
 https://www.youtube.com/watch?v=3Fl_7FrM_gI
 2)	Threat Model Every Story: Practical Continuous Threat Modeling Work for Your Team -  Izar Tarandach - AppSecCali 2019 
