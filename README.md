@@ -2,7 +2,7 @@
 
 Artefacts:
 1) Checklist 'Security affected areas'
-2) Script to integration checklist into Jira (Tamper monkey): see 
+2) Script to integrate checklist into Jira-ticket (Tamper monkey): 
 https://openuserjs.org/scripts/aliaksei_tatarynchykepam.com/Security_Impact_Score_Calculator
 3) Template 'Impact analysis'
 
